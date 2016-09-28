@@ -1,2 +1,4 @@
 # rx-synapse
-Connects streams across services synaptically
+Connect streams across services synaptically
+
+Work in progress. Stay tuned...
